@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: white;
+    color: black;
+}
+
+.navbar {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.navbar a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-weight: bold;
+}
+.navbar a:hover {
+    color: gray;
+}
+
+h1 {
+    font-size: 36px;
+}
+hr {
+    border: 1px solid black;
+    width: 80%;
+}
+
+.js-button {
+    background-color: black;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+.js-button:hover {
+    background-color: gray;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 40px;
+}
